@@ -1,0 +1,1 @@
+export const muzic = "assets/media/beep.mp3";

@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+button {
+    height: 40px;
+    width: 150px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background: lightblue;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+form {
+    max-width: 1200px;
+    height: 250px;
+    border: 1px solid;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+label {
+    margin-right: 50px;
+}
+
+input {
+    height: 30px;
+}
+
+input[type="number"] {
+    width: 70px;
+}
+
+#timer {
+    font-size: 30px;
+}
